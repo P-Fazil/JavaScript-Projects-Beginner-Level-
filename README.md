@@ -33,3 +33,11 @@ https://comforting-palmier-3f513c.netlify.app/
 
 <img width="1454" height="451" alt="Screenshot 2025-10-05 190342" src="https://github.com/user-attachments/assets/cadb4498-3f81-4045-bcd4-9567498c8b2b" />
 <img width="1380" height="410" alt="Screenshot 2025-10-05 190417" src="https://github.com/user-attachments/assets/da9ad782-9fc9-4cba-b785-b75669dd43b6" />
+
+## 🧑‍💻 Author
+**P Fazil**  
+[GitHub Profile](https://github.com/P-Fazil)
+
+---
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
